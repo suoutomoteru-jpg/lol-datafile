@@ -82,10 +82,9 @@ def build(version: str):
     return generated, missing
 
 
-def main():
-    version = sys.argv[1] if len(sys.argv) > 1 else None
+def main(version: str = None):
     if not version:
-        version = latest_ddragon_version()
+        version = sys.argv[1] if len(sys.argv) > 1 else latest_ddragon_version()
     generated, missing = build(version)
     print(f"skills: generated {len(generated)} champions (patch {version})")
     if missing:

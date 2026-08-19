@@ -8,6 +8,7 @@ DDragon記述崩れを手直しした item-desc-fixes.json があれば優先し
 出力: data/items.md
 """
 
+import os
 import sys
 
 from lib import (
@@ -63,12 +64,13 @@ def build(version: str) -> str:
     return "\n".join(lines).rstrip() + "\n"
 
 
-def main():
-    version = sys.argv[1] if len(sys.argv) > 1 else None
+def main(version: str = None):
     if not version:
-        version = latest_ddragon_version()
+        version = sys.argv[1] if len(sys.argv) > 1 else latest_ddragon_version()
     md = build(version)
-    with open(repo_path("data", "items.md"), "w", encoding="utf-8") as f:
+    out_path = repo_path("data", "items.md")
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+    with open(out_path, "w", encoding="utf-8") as f:
         f.write(md)
     print(f"items.md generated (patch {version})")
 
