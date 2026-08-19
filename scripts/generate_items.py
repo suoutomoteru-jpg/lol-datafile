@@ -35,9 +35,16 @@ def build(version: str) -> str:
     lines.append(f"DDragon patch: `{version}`")
     lines.append("")
 
-    # 購入不可のダミーエントリ（クラス分類用のプレースホルダ等）は除外する
+    # 購入不可のダミーエントリ、名前なしエントリ、サモナーズリフト(mapId=11)で
+    # 買えないアイテム（ARAM/アリーナ専用・退役アイテム等）は対象外にする。
+    # 現行SRのプレイに関係する項目だけに絞ることで、AIリファレンスとしての
+    # ノイズ（同名アイテムの重複・過去バージョンの混入）を防ぐ
     purchasable = {
-        item_id: item for item_id, item in items.items() if item.get("gold", {}).get("purchasable")
+        item_id: item
+        for item_id, item in items.items()
+        if item.get("gold", {}).get("purchasable")
+        and item.get("name")
+        and item.get("maps", {}).get("11")
     }
 
     for item_id in sorted(purchasable.keys(), key=lambda i: purchasable[i]["name"]):
