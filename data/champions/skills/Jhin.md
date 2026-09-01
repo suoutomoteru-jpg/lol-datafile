@@ -3,7 +3,7 @@
 - DDragon ID: `Jhin`
 - ロール: Marksman/Mage
 - リソース: マナ
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: この銃の名は｢囁き｣
 

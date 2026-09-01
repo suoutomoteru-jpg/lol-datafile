@@ -3,7 +3,7 @@
 - DDragon ID: `Smolder`
 - ロール: Marksman/Mage
 - リソース: マナ
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: 駆けだしドラゴン
 

@@ -3,7 +3,7 @@
 - DDragon ID: `Varus`
 - ロール: Marksman/Mage
 - リソース: マナ
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: 復讐の化身
 

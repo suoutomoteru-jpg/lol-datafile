@@ -3,7 +3,7 @@
 - DDragon ID: `Shyvana`
 - ロール: Fighter/Tank
 - リソース: フューリー
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: スケールメイル
 

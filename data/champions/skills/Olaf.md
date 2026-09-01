@@ -3,7 +3,7 @@
 - DDragon ID: `Olaf`
 - ロール: Fighter/Tank
 - リソース: マナ
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: 狂戦士の怒り
 

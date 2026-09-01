@@ -3,7 +3,7 @@
 - DDragon ID: `Sett`
 - ロール: Fighter/Tank
 - リソース: 闘魂
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: ファイティングスピリット
 

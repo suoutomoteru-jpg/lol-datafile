@@ -3,7 +3,7 @@
 - DDragon ID: `RekSai`
 - ロール: Fighter/Tank
 - リソース: 怒り
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: ゼル＝サイの怒り
 

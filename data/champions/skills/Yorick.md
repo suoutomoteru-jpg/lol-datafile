@@ -3,7 +3,7 @@
 - DDragon ID: `Yorick`
 - ロール: Fighter/Tank
 - リソース: マナ
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: 魂の導き手
 

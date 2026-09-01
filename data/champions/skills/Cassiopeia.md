@@ -3,7 +3,7 @@
 - DDragon ID: `Cassiopeia`
 - ロール: Mage
 - リソース: マナ
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: 妖艶な蛇行
 

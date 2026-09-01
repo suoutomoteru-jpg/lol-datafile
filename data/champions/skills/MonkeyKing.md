@@ -3,7 +3,7 @@
 - DDragon ID: `MonkeyKing`
 - ロール: Fighter/Tank
 - リソース: マナ
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: 岩の皮膚
 

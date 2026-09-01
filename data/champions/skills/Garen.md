@@ -3,7 +3,7 @@
 - DDragon ID: `Garen`
 - ロール: Fighter/Tank
 - リソース: なし
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: タフガイ
 

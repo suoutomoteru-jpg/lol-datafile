@@ -3,7 +3,7 @@
 - DDragon ID: `Viego`
 - ロール: Fighter/Assassin
 - リソース: なし
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: 王の支配
 

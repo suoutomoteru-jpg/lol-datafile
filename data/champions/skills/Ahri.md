@@ -3,7 +3,7 @@
 - DDragon ID: `Ahri`
 - ロール: Mage/Assassin
 - リソース: マナ
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: 生気吸引
 

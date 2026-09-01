@@ -1,9 +1,9 @@
 # ザーヘン（沈まぬ者）
 
 - DDragon ID: `Zaahen`
-- ロール: Fighter/Assassin
+- ロール: Fighter
 - リソース: マナ
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: 戦威修養
 

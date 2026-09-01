@@ -3,7 +3,7 @@
 - DDragon ID: `Rumble`
 - ロール: Fighter/Mage
 - リソース: ヒート
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: ポンコツタイタン
 

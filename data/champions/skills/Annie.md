@@ -3,7 +3,7 @@
 - DDragon ID: `Annie`
 - ロール: Mage/Support
 - リソース: マナ
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: 火遊びだいすき
 

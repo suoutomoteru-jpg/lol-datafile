@@ -3,7 +3,7 @@
 - DDragon ID: `Draven`
 - ロール: Marksman
 - リソース: マナ
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: リーグ・オブ・ドレイヴン
 

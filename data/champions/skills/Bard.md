@@ -3,7 +3,7 @@
 - DDragon ID: `Bard`
 - ロール: Support/Mage
 - リソース: マナ
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: 旅人の呼び声
 

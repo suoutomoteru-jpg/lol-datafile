@@ -3,7 +3,7 @@
 - DDragon ID: `Syndra`
 - ロール: Mage
 - リソース: マナ
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: 絶大なる魔力
 

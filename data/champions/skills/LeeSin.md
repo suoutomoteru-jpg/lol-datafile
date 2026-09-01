@@ -3,7 +3,7 @@
 - DDragon ID: `LeeSin`
 - ロール: Fighter/Assassin
 - リソース: 気
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: 練気
 

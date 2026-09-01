@@ -3,7 +3,7 @@
 - DDragon ID: `Sion`
 - ロール: Tank/Fighter
 - リソース: マナ
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: 名誉ある死
 

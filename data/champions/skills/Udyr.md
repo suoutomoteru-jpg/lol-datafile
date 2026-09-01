@@ -3,7 +3,7 @@
 - DDragon ID: `Udyr`
 - ロール: Fighter/Tank
 - リソース: マナ
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: 精霊の繋ぎ手
 

@@ -3,7 +3,7 @@
 - DDragon ID: `Kayn`
 - ロール: Fighter/Assassin
 - リソース: マナ
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: 緋眼の大鎌
 

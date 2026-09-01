@@ -3,7 +3,7 @@
 - DDragon ID: `Mordekaiser`
 - ロール: Fighter/Mage
 - リソース: シールド
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: 無窮の闇
 

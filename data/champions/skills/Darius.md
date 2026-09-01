@@ -3,7 +3,7 @@
 - DDragon ID: `Darius`
 - ロール: Fighter/Tank
 - リソース: マナ
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: 大出血
 

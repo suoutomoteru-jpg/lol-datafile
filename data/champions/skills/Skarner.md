@@ -3,7 +3,7 @@
 - DDragon ID: `Skarner`
 - ロール: Tank/Fighter
 - リソース: マナ
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: 響振動
 

@@ -1,9 +1,9 @@
 # ケイル（天空の正義）
 
 - DDragon ID: `Kayle`
-- ロール: Mage/Marksman
+- ロール: Marksman/Mage
 - リソース: マナ
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: 聖なる上昇
 

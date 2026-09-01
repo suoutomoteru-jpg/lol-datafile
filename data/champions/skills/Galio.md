@@ -3,7 +3,7 @@
 - DDragon ID: `Galio`
 - ロール: Tank/Mage
 - リソース: マナ
-- patch: `16.16.1`
+- patch: `16.17.1`
 
 ## パッシブ: 巨像の一撃
 
