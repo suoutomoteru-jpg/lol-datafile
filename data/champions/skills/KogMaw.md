@@ -3,7 +3,7 @@
 - DDragon ID: `KogMaw`
 - ロール: Marksman/Mage
 - リソース: マナ
-- patch: `16.17.1`
+- patch: `16.18.1`
 
 ## パッシブ: イカシアの自爆
 

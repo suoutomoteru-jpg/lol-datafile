@@ -3,7 +3,7 @@
 - DDragon ID: `Talon`
 - ロール: Assassin
 - リソース: マナ
-- patch: `16.17.1`
+- patch: `16.18.1`
 
 ## パッシブ: 血塗られし慈悲
 

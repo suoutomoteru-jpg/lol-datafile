@@ -3,7 +3,7 @@
 - DDragon ID: `Renekton`
 - ロール: Fighter/Tank
 - リソース: フューリー
-- patch: `16.17.1`
+- patch: `16.18.1`
 
 ## パッシブ: 激情の支配
 

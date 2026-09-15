@@ -3,7 +3,7 @@
 - DDragon ID: `Riven`
 - ロール: Fighter/Assassin
 - リソース: なし
-- patch: `16.17.1`
+- patch: `16.18.1`
 
 ## パッシブ: ルーンブレード
 

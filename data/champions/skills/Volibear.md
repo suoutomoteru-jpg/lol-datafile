@@ -3,7 +3,7 @@
 - DDragon ID: `Volibear`
 - ロール: Fighter/Tank
 - リソース: マナ
-- patch: `16.17.1`
+- patch: `16.18.1`
 
 ## パッシブ: 無慈悲の嵐
 
