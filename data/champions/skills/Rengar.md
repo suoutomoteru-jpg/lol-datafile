@@ -3,7 +3,7 @@
 - DDragon ID: `Rengar`
 - ロール: Assassin/Fighter
 - リソース: フェロシティ
-- patch: `16.18.1`
+- patch: `16.19.1`
 
 ## パッシブ: 見えざる襲撃者
 

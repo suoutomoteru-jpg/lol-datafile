@@ -3,7 +3,7 @@
 - DDragon ID: `Yone`
 - ロール: Fighter/Assassin
 - リソース: つむじ風
-- patch: `16.18.1`
+- patch: `16.19.1`
 
 ## パッシブ: 狩鬼道
 

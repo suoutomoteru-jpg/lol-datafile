@@ -3,7 +3,7 @@
 - DDragon ID: `Lulu`
 - ロール: Support/Mage
 - リソース: マナ
-- patch: `16.18.1`
+- patch: `16.19.1`
 
 ## パッシブ: 仲良し妖精ピックス
 

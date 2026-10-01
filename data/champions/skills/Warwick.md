@@ -3,7 +3,7 @@
 - DDragon ID: `Warwick`
 - ロール: Fighter/Tank
 - リソース: マナ
-- patch: `16.18.1`
+- patch: `16.19.1`
 
 ## パッシブ: 永遠の渇き
 

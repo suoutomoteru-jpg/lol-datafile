@@ -1,6 +1,6 @@
 # アイテム効果一覧
 
-DDragon patch: `16.18.1`
+DDragon patch: `16.19.1`
 
 ## B. F. ソード
 

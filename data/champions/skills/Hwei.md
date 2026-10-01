@@ -3,7 +3,7 @@
 - DDragon ID: `Hwei`
 - ロール: Mage/Support
 - リソース: マナ
-- patch: `16.18.1`
+- patch: `16.19.1`
 
 ## パッシブ: 夢想家の銘
 

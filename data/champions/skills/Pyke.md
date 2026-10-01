@@ -3,7 +3,7 @@
 - DDragon ID: `Pyke`
 - ロール: Support/Assassin
 - リソース: マナ
-- patch: `16.18.1`
+- patch: `16.19.1`
 
 ## パッシブ: 沈みし者の力
 

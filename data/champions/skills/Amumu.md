@@ -3,7 +3,7 @@
 - DDragon ID: `Amumu`
 - ロール: Tank/Support
 - リソース: マナ
-- patch: `16.18.1`
+- patch: `16.19.1`
 
 ## パッシブ: 呪いの手
 

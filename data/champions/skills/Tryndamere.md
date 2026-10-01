@@ -3,7 +3,7 @@
 - DDragon ID: `Tryndamere`
 - ロール: Fighter/Assassin
 - リソース: フューリー
-- patch: `16.18.1`
+- patch: `16.19.1`
 
 ## パッシブ: 戦場の咆哮
 

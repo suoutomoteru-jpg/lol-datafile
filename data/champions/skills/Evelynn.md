@@ -3,7 +3,7 @@
 - DDragon ID: `Evelynn`
 - ロール: Assassin/Mage
 - リソース: マナ
-- patch: `16.18.1`
+- patch: `16.19.1`
 
 ## パッシブ: 妖魔の影
 

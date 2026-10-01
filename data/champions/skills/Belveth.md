@@ -3,7 +3,7 @@
 - DDragon ID: `Belveth`
 - ロール: Fighter
 - リソース: なし
-- patch: `16.18.1`
+- patch: `16.19.1`
 
 ## パッシブ: 死のラベンダー
 

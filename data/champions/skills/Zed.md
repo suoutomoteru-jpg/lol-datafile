@@ -3,7 +3,7 @@
 - DDragon ID: `Zed`
 - ロール: Assassin
 - リソース: 気
-- patch: `16.18.1`
+- patch: `16.19.1`
 
 ## パッシブ: 弱者必衰
 

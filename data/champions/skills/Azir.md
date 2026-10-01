@@ -3,7 +3,7 @@
 - DDragon ID: `Azir`
 - ロール: Mage/Marksman
 - リソース: マナ
-- patch: `16.18.1`
+- patch: `16.19.1`
 
 ## パッシブ: シュリーマの遺産
 

@@ -3,7 +3,7 @@
 - DDragon ID: `Katarina`
 - ロール: Assassin/Mage
 - リソース: なし
-- patch: `16.18.1`
+- patch: `16.19.1`
 
 ## パッシブ: 貪欲なる暗殺者
 

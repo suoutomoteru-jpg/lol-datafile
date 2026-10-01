@@ -3,7 +3,7 @@
 - DDragon ID: `Corki`
 - ロール: Marksman/Mage
 - リソース: マナ
-- patch: `16.18.1`
+- patch: `16.19.1`
 
 ## パッシブ: ヘクステック榴散弾
 
