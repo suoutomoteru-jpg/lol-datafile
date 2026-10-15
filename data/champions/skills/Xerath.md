@@ -3,7 +3,7 @@
 - DDragon ID: `Xerath`
 - ロール: Mage/Support
 - リソース: マナ
-- patch: `16.19.1`
+- patch: `16.20.1`
 
 ## パッシブ: マナサージ
 

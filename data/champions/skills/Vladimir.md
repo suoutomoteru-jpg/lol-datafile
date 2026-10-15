@@ -3,7 +3,7 @@
 - DDragon ID: `Vladimir`
 - ロール: Mage/Fighter
 - リソース: 真紅の衝動
-- patch: `16.19.1`
+- patch: `16.20.1`
 
 ## パッシブ: 真紅の盟約
 

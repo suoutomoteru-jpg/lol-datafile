@@ -3,7 +3,7 @@
 - DDragon ID: `Elise`
 - ロール: Assassin/Mage
 - リソース: マナ
-- patch: `16.19.1`
+- patch: `16.20.1`
 
 ## パッシブ: 蜘蛛の女帝
 

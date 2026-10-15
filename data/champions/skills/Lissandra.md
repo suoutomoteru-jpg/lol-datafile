@@ -3,7 +3,7 @@
 - DDragon ID: `Lissandra`
 - ロール: Mage
 - リソース: マナ
-- patch: `16.19.1`
+- patch: `16.20.1`
 
 ## パッシブ: アイスボーンへの服従
 

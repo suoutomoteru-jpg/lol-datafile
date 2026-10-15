@@ -3,7 +3,7 @@
 - DDragon ID: `Aphelios`
 - ロール: Marksman
 - リソース: マナ
-- patch: `16.19.1`
+- patch: `16.20.1`
 
 ## パッシブ: 殺す者と導く者
 

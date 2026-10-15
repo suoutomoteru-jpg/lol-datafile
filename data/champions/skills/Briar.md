@@ -3,7 +3,7 @@
 - DDragon ID: `Briar`
 - ロール: Fighter/Assassin
 - リソース: フューリー
-- patch: `16.19.1`
+- patch: `16.20.1`
 
 ## パッシブ: 真紅の呪い
 

@@ -3,7 +3,7 @@
 - DDragon ID: `Aatrox`
 - ロール: Fighter
 - リソース: ブラッドウェル
-- patch: `16.19.1`
+- patch: `16.20.1`
 
 ## パッシブ: 死兆の構え
 

@@ -3,7 +3,7 @@
 - DDragon ID: `Qiyana`
 - ロール: Assassin
 - リソース: マナ
-- patch: `16.19.1`
+- patch: `16.20.1`
 
 ## パッシブ: 女帝の威風
 

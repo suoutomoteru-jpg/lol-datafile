@@ -3,7 +3,7 @@
 - DDragon ID: `Naafiri`
 - ロール: Assassin/Fighter
 - リソース: マナ
-- patch: `16.19.1`
+- patch: `16.20.1`
 
 ## パッシブ: 我らは一つ
 

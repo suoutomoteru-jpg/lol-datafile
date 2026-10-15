@@ -3,7 +3,7 @@
 - DDragon ID: `Poppy`
 - ロール: Tank/Fighter
 - リソース: マナ
-- patch: `16.19.1`
+- patch: `16.20.1`
 
 ## パッシブ: 鋼鉄の大使
 
